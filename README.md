@@ -1,4 +1,4 @@
-![Per Player Loot](.github/PerPlayerLoot.png)
+![Per Player Loot](https://github.com/xcodian/PerPlayerLoot/tree/master/.github/PerPlayerLoot.png)
 
 # Terraria Per Player Loot
 A [TShock](https://github.com/Pryaxis/TShock) server plugin which makes
@@ -56,10 +56,20 @@ possibly broken (which should rarely happen). In that case, the real chest in
 `Main.chest` has its items zeroed.
 
 ## Debug Commands
-- `/ppltoggle` - Toggle the plugin packet hooks globally. **WARNING:** using
+- `/ppltoggle` - Toggle the plugin packet hooks globally. **WARNING* using
   this command is unsupported and can lead to desynchronization of the
   `Main.chest` array and the internal plugin state. 
   
   Debug use only! When in a disabled state, any chests you place will become
   loot chests, and any chest inventory accessed will be its **real inventory**,
   not a per-player instanced one!
+
+This plugin are atualized by me brasilzinhoz
+Esse plugin é atualizado por eu brasilzinhoz
+
+Compatible with Mysql to preventing lag
+Compatível com mysql pra prevenir o lag
+
+
+Edit archive .json to you mysql
+Edite o arquivo .json para seu mysql
