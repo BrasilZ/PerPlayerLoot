@@ -1,4 +1,4 @@
-![Per Player Loot](https://github.com/xcodian/PerPlayerLoot/tree/master/.github/PerPlayerLoot.png)
+![Per Player Loot](https://raw.githubusercontent.com/xcodian/PerPlayerLoot/refs/heads/master/.github/PerPlayerLoot.png)
 
 # Terraria Per Player Loot
 A [TShock](https://github.com/Pryaxis/TShock) server plugin which makes
